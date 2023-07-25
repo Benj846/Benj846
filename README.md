@@ -1,4 +1,4 @@
-### Developer isn't someone who only wrties code, instaed it's about sovling business problems 
+### Developer isn't someone who only wrties code, instaed it's about solving business problems 
 
 
 <!---
